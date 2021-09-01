@@ -1,0 +1,5 @@
+{
+    "prefix": " ", //prefix是指打指令時的偵測命令
+    "token": " " //token指的是登入bot的代碼 
+}
+  
